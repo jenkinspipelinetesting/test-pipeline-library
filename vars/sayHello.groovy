@@ -1,3 +1,3 @@
-def call(String name = 'human') {
+def call(String name = 'forktest') {
     echo "Hello, ${name}."
 }
